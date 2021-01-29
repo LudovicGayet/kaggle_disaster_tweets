@@ -10,6 +10,7 @@ ipykernel = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+sklearn = "*"
 
 [dev-packages]
 

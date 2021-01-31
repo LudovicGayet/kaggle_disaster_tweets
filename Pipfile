@@ -11,6 +11,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 sklearn = "*"
+jupyter-tabnine = "*"
 
 [dev-packages]
 
